@@ -1,3 +1,4 @@
 # RSA-Algo
 just go to the project directory 
-and run command node App.js
+(1) run command node App.js
+(2)node_modules are already included in it.
